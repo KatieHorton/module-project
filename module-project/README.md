@@ -1,0 +1,3 @@
+project instructions: create new javascript file called file-IO.js. in this file, create module that has: function to create files and return contents. a function that reads the file and returns contents of file. a function that appends the file and returns the contents of the file. a function that deletes a file and returns a successful delete message when completed. create a new file called index.js and import this new module. within index.js create a http server in browser local port 3000. creates file, appends message of your choice, and returns the read result of this file when a request is made to this server. test the server in localhost in browser. feel free to experiment with html. stage commit and push changes.
+
+katieHorton for backend-class
